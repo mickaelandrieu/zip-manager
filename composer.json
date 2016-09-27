@@ -3,7 +3,8 @@
     "description": "Nice ZipArchive wrapper",
     "type": "library",
     "require": {
-        "ext-zip": "*"
+        "ext-zip": "*",
+        "php": ">=5.4",
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8"
