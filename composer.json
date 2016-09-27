@@ -1,0 +1,21 @@
+{
+    "name": "mickaelandrieu/zip-manager",
+    "description": "Nice ZipArchive wrapper",
+    "type": "library",
+    "require": {
+        "ext-zip": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    },
+    "suggest": {
+        "symfony/debug": "Provide a system able to convert errors to exceptions"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mickaël Andrieu",
+            "email": "andrieu.travail@gmail.com"
+        }
+    ]
+}
